@@ -2,19 +2,17 @@
 body{
   background-image: url(../imagens/p.png);
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: no repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
 .btn1{
-  margin-top: 250px;
-  margin-left: 30px;
+  margin-left: 5px; 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 .btn2{
-  margin-top: 250px;
-  margin-left: 85px;
+  margin-left: 15px; 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 

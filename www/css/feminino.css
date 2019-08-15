@@ -1,0 +1,56 @@
+/* This is a CSS file */
+body{
+  background-image: url(../imagens/feminino.png);
+background-position: center;
+background-repeat: no repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  color: ghostwhite;
+  text-align: center;
+}
+
+h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+  color: white;
+}
+
+h3{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  color: black;
+}
+
+label{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 14px;
+  color: white;
+}
+
+.radio{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+  color: deepskyblue;
+  text-align: right;
+}
+.calcular{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+  color: white;
+  margin-left: 170px;
+}
+
+select{
+  height: 40px;
+  border-radius: 10px;
+  width: 190px;
+
+}
+.result{
+  margin-left: 170px;
+}
